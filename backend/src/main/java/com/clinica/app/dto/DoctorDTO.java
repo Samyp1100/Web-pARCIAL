@@ -1,0 +1,22 @@
+package com.clinica.app.dto;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+import java.time.LocalDate;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class DoctorDTO {
+
+    private Long id;
+    private String nombre;
+    private String apellido;
+    private String especialidad;
+    private Long clinicaId;
+    private String telefono;
+    private String correo;
+    private LocalDate fechaContratacion;
+}
