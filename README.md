@@ -318,7 +318,7 @@ Este repositorio puede crecer como portafolio personal. Para agregar nuevos proy
 
 **Samyp1100**
 
-Desarrollador web en formacion, interesado en construir aplicaciones completas, aprender nuevas tecnologias y documentar decisiones tecnicas de forma clara.
+Ingeniero de sistemas en formación, interesado en construir aplicaciones completas, aprender nuevas tecnologias y documentar decisiones tecnicas de forma clara.
 
 - GitHub: [github.com/Samyp1100](https://github.com/Samyp1100)
 - Repositorio: [Web-pARCIAL](https://github.com/Samyp1100/Web-pARCIAL)
